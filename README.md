@@ -1,4 +1,3 @@
 # Snapverse
 
-## Overview
-Snapverse is a monorepo that includes both backend and frontend applications.
+This is the Snapverse monorepo with features like AI-powered feed, AR/VR, gamification, and mental health.
